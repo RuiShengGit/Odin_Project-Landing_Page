@@ -1,1 +1,1 @@
-An entire webpage design based on the images provided from odin project:landing page
+An entire webpage design based on the images provided from odin project: landing page
